@@ -7,3 +7,7 @@ Nothing to see here — check out my other repos!
 ## About
 
 This repo exists to explore GitHub PR workflows.
+
+## License
+
+MIT
