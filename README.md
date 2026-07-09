@@ -11,3 +11,7 @@ This repo exists to explore GitHub PR workflows.
 ## License
 
 MIT
+
+## Usage
+
+Nothing to run — this repo is a workflow sandbox.
