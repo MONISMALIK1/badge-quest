@@ -15,3 +15,5 @@ MIT
 ## Usage
 
 Nothing to run — this repo is a workflow sandbox.
+
+- Update 10: sandbox activity entry.
