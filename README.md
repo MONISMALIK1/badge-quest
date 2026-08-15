@@ -27,3 +27,5 @@ Nothing to run — this repo is a workflow sandbox.
 - Round2 entry 5: sandbox activity.
 
 - Round2 entry 6: sandbox activity.
+
+- Round2 entry 7: sandbox activity.
